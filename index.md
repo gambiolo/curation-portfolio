@@ -6,7 +6,7 @@ A meeting place for social change, focused on the intersection between technolog
 
 ## KOBE 078 [How to invent the futur](https://2018.078kobe.jp/events/5576/index.html?ltclid=c1ee619e-f6af-4176-94d6-176d1b0541fd) (Japan)
 
-Conference and workshops on high technology and biotechnology based in Kobe, we had the chance to give a lecture just before legendary Detroit techno band  aka Underground Resistance (UR) who was playing alongside with very interesting Japanese artists and forward thinkers...we even met Gil Scott Heron's niece backstage (only in Japan).
+Conference and workshops on high technology and biotechnology based in Kobe, we had the chance to give a lecture just before legendary Detroit techno band  aka Underground Resistance (UR) who was playing alongside with very interesting Japanese artists and forward thinkers from all over the world, some people say it's the new sxsw...we even met Gil Scott Heron's niece backstage (only in Japan).
 
 ## Oxford talk [on Biohacking](https://new.talks.ox.ac.uk/talks/id/a449c919-352e-4a01-8055-d8abb744312a/?ltclid=66e994b5-4475-4759-8824-d9136422bd3f)  (England)
 
