@@ -1,5 +1,7 @@
 # Collabs as writer, photographer, speaker, lecturer, curator, mentor, workshop organiser etc...
 
+Check out our decolonized approach toward open source researches, and how to expect creating communities when the roots of academia is entangled with such collonial matrix, more on that subject here > [GAMBIOLOGITS](https://gambiolo.github.io/decolonizing-biohackingsafari/) #PardonMyFrench
+
 ## FSCONS: [The Free Society Conference](https://fscons.org/2015/schedule/?ltclid=2738ed23-fc47-41f7-bee6-1e759b5857f5) (Sweden)
 
 A meeting place for social change, focused on the intersection between technology, culture and society. The conference brings together people from a wide range of fields, and merges the technical with the social, seeking both to activate and challenge. Your input in open discussion and brainstorming are as important as the talks given during the conference.
